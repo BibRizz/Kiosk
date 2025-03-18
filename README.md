@@ -1,5 +1,5 @@
 # Kiosk Bypass
-**Thanks for looking here, hopefully this works for your Chromebook, I'm still gathering technical details to see who this would work for and on what app this works on because this is pretty new and the first bypass I _discovered :)_.**
+**Thanks for looking here, hopefully this works for your Chromebook, I'm still gathering technical details to see who this would work for and on what app this works on because this is pretty new and the first bypass I _discovered :)_. Also there is no code because this is just a bunch of instructions which is easier for you!**
 
 The kiosk bypass works using a silly mechanic on kiosk apps on ChromeOS, if this takes more than a minimum of 5 clicks with the trackpad (not including the ones to enter the app) to get to the Gmail page/Microsoft page, then write down the process so you don't forget
   There are two methods that I know as of now:
